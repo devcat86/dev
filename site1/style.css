@@ -8,7 +8,7 @@ body {
 
 #title {
     font-family: 'Kanit', sans-serif;
-font-family: 'Montserrat', sans-serif;
+
 text-align: center; 
 color: lightyellow;
 font-size: 50px;
@@ -16,10 +16,10 @@ font-size: 50px;
 
 #text {
     font-family: 'Kanit', sans-serif;
-    font-family: 'Montserrat', sans-serif;
-    font-family: 'Ubuntu', sans-serif;
+
+
 text-align: center;
-color: whitesmoke
+color: whitesmoke;
 }
 
 button {
@@ -45,7 +45,7 @@ button:hover{
 
 .test{
     text-align: center;
-    color: whitesmoke
+    color: whitesmoke;
 }
 
 .buttcenter {
@@ -65,7 +65,7 @@ button:hover{
     transition-duration: 0.5s;
 }
 .errbuttcent:hover{
-    transform: scale(8, 2)
+    transform: scale(8, 2);
 }
 .errbutt2:hover{
     color: white;
