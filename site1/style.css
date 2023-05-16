@@ -48,7 +48,7 @@ button:hover{
     color: whitesmoke
 }
 
-.buttcenter {
+.btncenter {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -58,16 +58,16 @@ button:hover{
     color:whitesmoke;
     text-align: center;
 }
-.errbuttcent{
+.errиетcent{
     display: flex;
     justify-content: center;
     align-items: center;
     transition-duration: 0.5s;
 }
-.errbuttcent:hover{
+.errbtncent:hover{
     transform: scale(8, 2)
 }
-.errbutt2:hover{
+.errbtn2:hover{
     color: white;
     background-color: red;
     opacity: 1.0;
