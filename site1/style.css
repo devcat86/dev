@@ -37,6 +37,7 @@ button {
     text-align: center;
     margin: 10px;
     font-size: 16px;
+    background-color: whitesmoke;
 }
 
 button:hover{
@@ -58,7 +59,7 @@ button:hover{
     color:whitesmoke;
     text-align: center;
 }
-.errиетcent{
+.errbtncent{
     display: flex;
     justify-content: center;
     align-items: center;
