@@ -1,5 +1,5 @@
 body {
-    background-image: url(pic2.jpg);
+    background-image: url(pic4.jpeg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -74,7 +74,7 @@ button:hover{
     opacity: 1.0;
     box-shadow: none; 
 }
-.trollcent{
+/*.trollcent{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -84,4 +84,10 @@ color: red;
 }
 .troll:hover{
     display: none;
+}*/
+#li, li{
+    color:whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
