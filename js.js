@@ -1,3 +1,4 @@
-var test
-test = "1"
-alert("test")
+function check() {
+    var x = document.getElementById("example").value;
+    alert(x)
+}
