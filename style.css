@@ -75,7 +75,7 @@ button:hover{
     opacity: 1.0;
     box-shadow: none; 
 }
-#li, li{
+#li, li, #jsdiv{
     color:whitesmoke;
     display: flex;
     justify-content: center;
@@ -110,4 +110,10 @@ button:hover{
     height:22px;
     border: 1px solid black;
     opacity: 0.7;
+ }
+ #jsdiv{
+    border: 10px ;
+    background-color: rgb(140, 140, 140);
+    margin-left: 380px;
+    margin-right: 380px;
  }
