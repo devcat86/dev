@@ -114,6 +114,7 @@ button:hover{
  #jsdiv{
     border: 10px ;
     background-color: rgb(140, 140, 140);
-    margin-left: 380px;
-    margin-right: 380px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
  }
