@@ -75,17 +75,6 @@ button:hover{
     opacity: 1.0;
     box-shadow: none; 
 }
-/*.trollcent{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.troll{
-color: red;
-}
-.troll:hover{
-    display: none;
-}*/
 #li, li{
     color:whitesmoke;
     display: flex;
