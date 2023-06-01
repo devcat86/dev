@@ -37,7 +37,8 @@ button {
     margin: 10px;
     font-size: 16px;
     background-color: black;
-    animation: title 30s infinite;
+    color:azure;
+    /*animation: title 30s infinite;*/
 }
 
 button:hover{
@@ -54,25 +55,9 @@ button:hover{
     justify-content: center;
     align-items: center;
     }
-
 #spoiler{
     color:whitesmoke;
     text-align: center;
-}
-.errbtncent{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    transition-duration: 0.5s;
-}
-.errbtncent:hover{
-    transform: scale(8, 2)
-}
-.errbtn2:hover{
-    color: white;
-    background-color: red;
-    opacity: 1.0;
-    box-shadow: none; 
 }
 #li, li, #jsdiv{
     color:#fff;
@@ -80,7 +65,6 @@ button:hover{
     justify-content: center;
     align-items: center;
 }
-
  #jsbutton{
     border-radius: 16px;
     width:80px; 
@@ -95,10 +79,9 @@ button:hover{
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-left: 250px;
+    margin-right: 250px;
  }
-
-
-
  a {
     text-decoration: none;
     color: #fff;
