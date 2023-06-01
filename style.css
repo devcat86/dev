@@ -59,7 +59,7 @@ button:hover{
     color:whitesmoke;
     text-align: center;
 }
-#li, li, #jsdiv{
+#jsdiv{
     color:#fff;
     display: flex;
     justify-content: center;
