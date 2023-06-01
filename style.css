@@ -36,7 +36,7 @@ button {
     text-align: center;
     margin: 10px;
     font-size: 16px;
-    background-color: grey;
+    background-color: black;
     animation: title 30s infinite;
 }
 
