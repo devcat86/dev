@@ -91,7 +91,39 @@ button:hover{
  #jsdiv{
     border: 1px solid;
     background-color: whitesmoke;
+    color:black;
     display: flex;
     justify-content: center;
     align-items: center;
  }
+
+
+
+ a {
+    text-decoration: none;
+    color: #fff;
+}
+ol {
+  list-style: none;
+  margin: auto;
+  padding: 0;
+}
+.social-icons li {
+  vertical-align: top;
+  display: inline;
+  font-size: 36px;
+  margin: 5px;
+}
+.social-icons-container {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.social-icon {
+  transition-duration: 0.2s;
+}
+.social-icon:hover {
+  color: #ccc;
+  transition-duration: 0.2s;
+}
