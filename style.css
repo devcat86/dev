@@ -66,6 +66,8 @@ button:hover{
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 50%;
+  margin: auto;
  }
  a {
     text-decoration: none;
@@ -97,4 +99,8 @@ ol {
 }
 img{
   width: 250px;
+}
+.comment{
+  width: 50%;
+  margin: auto;
 }
