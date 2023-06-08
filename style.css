@@ -7,7 +7,7 @@ body {
     background-color: rgb(30, 30, 30);
 }
 
-#title {
+.title {
     font-family: 'Kanit', sans-serif;
 font-family: 'Montserrat', sans-serif;
 text-align: center; 
@@ -15,12 +15,12 @@ font-size: 45px;
 animation: title 60s infinite;
 }
 
-#text {
+.text {
     font-family: 'Kanit', sans-serif;
     font-family: 'Montserrat', sans-serif;
     font-family: 'Ubuntu', sans-serif;
 text-align: center;
-color: whitesmoke
+color: white;
 }
 
 button {
@@ -48,18 +48,18 @@ button:hover{
     justify-content: center;
     align-items: center;
     }
-#spoiler{
+.spoiler{
     color:whitesmoke;
     text-align: center;
 }
- #jsbutton{
+ .jsbutton{
     border-radius: 16px;
     width:80px; 
     height:22px;
     border: 1px solid black;
     opacity: 0.7;
  }
- #jsdiv{
+ .jsdiv{
     border: 1px solid;
     background-color: whitesmoke;
     color: black;
