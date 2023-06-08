@@ -1,0 +1,7 @@
+@media screen and (max-width: 700px) {
+    .comment {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }    
+}
