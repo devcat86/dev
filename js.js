@@ -1,5 +1,5 @@
 function check() {
-    var x = document.getElementsByClassName("jsinput").value;
-    document.getElementsByClassName('jsdiv').innerText = x;
+    var x = document.getElementById("jsinput").value;
+    document.getElementById('jsdiv').innerText = x;
 }
 
