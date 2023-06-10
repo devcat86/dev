@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Libre+Franklin:wght@100&family=Raleway:wght@200&family=Wix+Madefor+Display&display=swap');
 body {
  /* background-image: url(pic4.jpeg);
     background-repeat: no-repeat;
@@ -8,9 +9,11 @@ body {
 }
 
 .title {
-    font-family: 'Kanit', sans-serif;
-font-family: 'Montserrat', sans-serif;
-text-align: center; 
+  font-family: 'Indie Flower', cursive;
+font-family: 'Libre Franklin', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Wix Madefor Display', sans-serif;
+text-align: center;
 font-size: 45px;
 animation: title 60s infinite;
 }
@@ -25,6 +28,18 @@ color: white;
 
 button {
     border-radius: 8px;
+    width:110px; 
+    height:50px;
+    border: 1px solid rgb(30, 30, 30);
+    opacity: 0.7;
+    transition-duration: 0.3s;
+    margin-top: 20px;
+    /*box-shadow: 4px 4px 6px rgb(75, 75, 75); */
+    text-align: center;
+    margin: 6px;
+    font-size: 16px;
+    background-color: rgb(30, 30, 30);
+    color:azure;
     /*animation: title 30s infinite;*/
 }
 
@@ -35,7 +50,7 @@ button {/*анимация*/
   border: none;
   outline: none;
   color: #fff;
-  background: #111;
+  background: #333333;
   cursor: pointer;
   position: relative;
   z-index: 0;
@@ -89,10 +104,6 @@ button:after {
   100% { background-position: 0 0; }
 }
 
-
-/*button:hover{
-    border: 1px ridge whitesmoke;
-}*/
 .btncenter {
     display: flex;
     justify-content: center;
